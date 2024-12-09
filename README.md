@@ -26,10 +26,10 @@ Text that is not a quote
 
 > Text that is a quote
 
-### Tables
+## Tables
 
 | Name     | Age | Occupation  |
-|     ||         |
+| :---     |:---:|      ---:   |
 | Alice    | 25  | Engineer    |
 | Bob      | 30  | Designer    |
 | Charlie  | 22  | Developer   |
