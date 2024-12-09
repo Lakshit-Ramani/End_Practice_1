@@ -26,5 +26,11 @@ Text that is not a quote
 
 > Text that is a quote
 
+### Tables
 
-![Image of Mr. Lakshit Ramani]("C:\Users\lenovo\OneDrive\Pictures\Camera Roll\IMG20240124203127.jpg")
+| Name     | Age | Occupation  |
+|     ||         |
+| Alice    | 25  | Engineer    |
+| Bob      | 30  | Designer    |
+| Charlie  | 22  | Developer   |
+
