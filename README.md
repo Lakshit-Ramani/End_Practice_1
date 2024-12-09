@@ -26,4 +26,5 @@ Text that is not a quote
 
 > Text that is a quote
 
-X_a^b
+
+![Image of Mr. Lakshit Ramani]("C:\Users\lenovo\OneDrive\Pictures\Camera Roll\IMG20240124203127.jpg")
