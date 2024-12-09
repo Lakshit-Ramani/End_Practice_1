@@ -34,3 +34,9 @@ Text that is not a quote
 | Bob      | 30  | Designer    |
 | Charlie  | 22  | Developer   |
 
+
+|Name      |cg      |Yes/No     |
+|   :---   |:--:   |  --:     |
+| king     | 6.5    | Yes       |
+| dgdf     | 7.5    |  No       |
+| regdg    | 6.8    | Yes-NO    |
